@@ -1,2 +1,2 @@
 # weekly_edits
-Weekly edits dashboard
+Weekly Edits Dashboard by the Product Analytics Team
